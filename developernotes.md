@@ -1,6 +1,6 @@
-#Candidate notes here
+# Candidate notes here
 
-Requirements:
+# Requirements:
 
 
 Python (3.5, 3.6, 3.7, 3.8)
@@ -24,7 +24,7 @@ It is recommended to create a virtualenv for testing. Assuming it is already ins
 $ cd python_api
 
 
-Installation:
+# Installation:
 
 
 $ pip install -r requirements.txt
@@ -62,7 +62,7 @@ DATABASES = {
 create collections and add data by uploading  json files [api/fixtures].
 
 
-Run the Server:
+# Run the Server:
 
 $ python manage.py runserver
 
