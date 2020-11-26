@@ -71,6 +71,10 @@ open browser:
 Endpoint `/users` should return a collection of users:
 
 http://localhost:8000/users
+You can check the output of above endpoint in below screenshot
+
+![image](https://user-images.githubusercontent.com/61479102/100374888-d9fa6400-3004-11eb-85f2-dee2d3d4d815.png)
+
 
 Endpoint `/assets` should return a collection of assets:
 
